@@ -1,0 +1,15 @@
+git status 
+git init
+git config --global user.name "arvind"
+git log 
+git brnach 
+git checkout -b dev 
+git --version 
+git add .
+git commit -m "ading commnet"
+git clone url
+git remote -v
+git remote set-url --add origin <newurl with token >..
+github > steing > devolper setting >
+acccestoken >> clasic 
+
